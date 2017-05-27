@@ -1,3 +1,4 @@
 # only include *.ipynb
-*.ipynb
-!*
+!*.ipynb
+!.gitignore
+*
